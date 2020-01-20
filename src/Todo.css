@@ -1,0 +1,48 @@
+* {
+  box-sizing: border-box;
+}
+
+#main {
+  height: 100vh;
+}
+
+#listContainer {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/* #listContainer div{
+    text-align: center;
+    height: 100px;
+    width: 170px;
+    border: 1px solid brown;
+    background-color: gold;
+} */
+
+#Listcard {
+  text-align: center;
+  height: 100px;
+  width: 170px;
+  border: 1px solid brown;
+  background-color: gold;
+}
+
+#Listcard div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+/* #editInput input[type=text]{
+   text-align: center;
+} */
+
+#editInput input[type="text"] {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+form {
+  padding: 20px;
+}

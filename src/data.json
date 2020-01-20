@@ -1,0 +1,12 @@
+[
+    {
+        "task": "Door",
+        "done": false,
+        "editMode": false
+    },
+    {
+        "task": "Glass",
+        "done": false,
+        "editMode": false
+    }
+]
